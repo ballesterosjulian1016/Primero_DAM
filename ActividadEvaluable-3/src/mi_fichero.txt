@@ -1,0 +1,11 @@
+CuentaBasica,julian,hjjhhj@,1234567897,25
+CuentaBasica,gghyj,hyjy@,1234567894,18
+CuentaBasica,gghyj,hyjy@,1234567894,18
+CuentaPremiun,thyjy,hyyj@,1234567897,22CuentaBasica,julian,julia@gmail.com,1234567897,18
+CuentaPremiun,javier,javier@gmail.com,1234567897,25
+CuentaBasica,julian,julia@gmail.com,1234567897,18
+CuentaPremiun,javier,javier@gmail.com,1234567897,25
+CuentaBasica,julian,dam@gmail.com,1234567894,20
+CuentaBasica,marta,marta@gmail.com,1234567894,20
+CuentaBasica,marta,marta@gmail.com,1234567894,20
+CuentaPremiun,javier,javier@gmail.com,1234567897,20
